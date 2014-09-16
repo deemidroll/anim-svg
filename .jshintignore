@@ -4,3 +4,4 @@ src/js/globalVendorDependencies
 src/js/modifiersForVendorDependencies
 bower_components
 build
+src
